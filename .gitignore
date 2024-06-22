@@ -1,0 +1,9 @@
+
+.env
+.DS_Store
+
+data/
+output/
+venv/
+
+system-log.txt
